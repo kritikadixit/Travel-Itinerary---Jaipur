@@ -2,7 +2,7 @@
 A 3-day travel itinerary website for Jaipur, Rajasthan — built with pure HTML, CSS, and JavaScript providing a clean, responsive, interactive frontend.
 Heritage in a Hurry: Jaipur Itinerary
 
-🌐 Live Demo: https://jaipuritenary.netlify.app/
+🌐 Live Demo: https://jaipuritinerary.netlify.app/
 
 ✨ Features
 
@@ -52,7 +52,7 @@ In repo → Settings > Pages → Choose main branch → / (root) → Save.
 
 Site will be live at:
 
-https://jaipuritenary.netlify.app/
+https://jaipuritinerary.netlify.app/
 
 🛠️ Tech Stack
 
